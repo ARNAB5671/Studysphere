@@ -4,15 +4,7 @@
   text-decoration: none;
 }
 
-.main-container {
-  margin: 0px;
-  padding: 0px;
-  background-color: rgb(2, 46, 60);
-  width: 100vw;
-  height: 100vh;
-  position: relative;
-  overflow-x: hidden;
-}
+
 
 .blur-circle1 {
   width: 200px;
